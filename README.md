@@ -15,6 +15,7 @@ Es una plantilla/sistema para hacer un juego de RPG. Intente añadirle muchas de
 - Objetos curativos y objetos para quitar estados alterados.
 - Estados alterados como veneno, sueño, parálisis o ceguera.
 - Y un sistema de guardado (utilizando archivos de txt).
+
 Funciona en la terminal (no tiene interfaz de usuario o diseño), dando una serie de opciones asociadas con números, y al escribir el numero, se escoge esa opción.
 En si tiene un pequeño "juego" para enseñar las capacidades del sistema, pero el punto es que le añadas lo que quieras al sistema.
 Como funciona con Java, se necesita tener instalado Java, y como se enseña el texto y las opciones en la terminal, se necesitara ver la terminal mientras se "juega".
