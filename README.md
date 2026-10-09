@@ -1,15 +1,15 @@
 # Sistema de RPG
 
-Creado por: Montaño Lares Leonardo
+Creado por: Montaño Lares Leonardo, López González Andrea Guadalupe, Encinas Rodríguez Jorge Eduardo, Félix Espejo Alethse María
 
-Un proyecto que empecé a hacer solo por diversión, pero cuando tuve la oportunidad, lo di para mi proyecto de mi clase de desarrollo de sistemas II.
+Un proyecto que empecé a hacer solo por diversión, pero cuando tuve la oportunidad, lo puse para que lo use mi equipo como proyecto de mi clase de desarrollo de sistemas II.
 Es una plantilla/sistema para hacer un juego de RPG. Intente añadirle muchas de las funciones típicas de un JRPG, como:
 - Combate por turnos.
 - Varios personajes jugables que se pueden juntar en un grupo de 4.
 - Sistema de niveles y puntos de experiencia.
 - Puntos de vida (HP) y puntos de magia (MP).
 - Habilidades y magias que consumen MP.
-- Encuentros con grupos de enemigos con sus propias estadísticas y .
+- Encuentros con grupos de enemigos con sus propias estadísticas y movimientos.
 - Mazmorras con cofres, trampas y puzzles.
 - Equipamiento (armas, armaduras y accesorios)
 - Objetos curativos y objetos para quitar estados alterados.
